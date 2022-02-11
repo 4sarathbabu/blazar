@@ -1,1 +1,1 @@
-This is a test file for checking the source code
+This is a test file for checking the source code for ARA.
